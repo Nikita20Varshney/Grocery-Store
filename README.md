@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2025-07-12 224031" src="https://github.com/user-attachments/assets/f1454cde-b6c2-4dd3-9b33-1906d840b277" /><img width="1920" height="1080" alt="Screenshot 2025-07-12 223954" src="https://github.com/user-attachments/assets/48075062-9371-48f4-bf0a-55ea30589e03" /># Grocery-Store Website using Html,Css,Javascript
+# Grocery-Store Website using Html,Css,Javascript
 This is a responsive grocery website design using html css and javascript .
 
 # Features.
@@ -10,14 +10,7 @@ This is a responsive grocery website design using html css and javascript .
 #Responsive blogs card section using css grid. Responsive footer section using css grid.
 ## Screenshots
 
-<img src="!Uploading Screenshot 2025-07-12 223954.png…]()"
-   style="float: left" 
-   width="200px"
-   height="400px"/><img
-   style="float: left" 
-   width="200px"
-   height="400px"
-   src="![Uploading Screenshot 2025-07-12 224031.png…]()"/>
+<img width="1920" height="1080" alt="Screenshot 2025-07-12 223954" src="https://github.com/user-attachments/assets/f1454cde-b6c2-4dd3-9b33-1906d840b277" /><img width="1920" height="1080" alt="Screenshot 2025-07-12 224031" src="https://github.com/user-attachments/assets/48075062-9371-48f4-bf0a-55ea30589e03" />
 
 # File Stucture
 assets: Contains icons and image assets used in the project<br>
