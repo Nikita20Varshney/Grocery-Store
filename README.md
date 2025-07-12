@@ -1,5 +1,15 @@
-# Grocery-Store Website using Html,Css,Javascript
+<img width="1920" height="1080" alt="Screenshot 2025-07-12 223954" src="https://github.com/user-attachments/assets/48075062-9371-48f4-bf0a-55ea30589e03" /># Grocery-Store Website using Html,Css,Javascript
 This is a responsive grocery website design using html css and javascript .
+## Screenshots
+
+<img src="!Uploading Screenshot 2025-07-12 223954.png…]()"
+   style="float: left" 
+   width="200px"
+   height="400px"/><img
+   style="float: left" 
+   width="200px"
+   height="400px"
+   src="![Uploading Screenshot 2025-07-12 224031.png…]()"/>
 
 # Features.
 #Responsive header / navbar with search form / shopping cart toggle navbar menu and login form effect using javascript.
